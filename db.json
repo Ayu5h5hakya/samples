@@ -61,7 +61,7 @@
 "create" : "Create",
 "switchprofile" : "Switch Profile",
 "deleteprofile" : "Delete Profile",
-"manageprofile" : "Manage Profiles",
+"manageprofile" : "Manage Profiles"
 
     },
     "direction": null
