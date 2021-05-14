@@ -64,7 +64,8 @@
       "designer":"Designer",
       "editor":"Editor",
       "notes":"Notes",
-      "license":"License"
+      "license":"License",
+      "filters":"Filters"
     },
     "direction": null
   },
@@ -136,7 +137,8 @@
             "designer":"디자이너",
       "editor":"편집자",
             "notes":"메모",
-      "license":"특허"
+      "license":"특허",
+      "filters":"필터"
     },
     "direction": null
   },
