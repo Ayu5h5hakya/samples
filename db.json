@@ -59,8 +59,8 @@
 "create" : "Create",
 "switchprofile" : "Switch Profile",
 "deleteprofile" : "Delete Profile",
-"manageprofile" : "Manage Profiles"
-
+"manageprofile" : "Manage Profiles",
+"illustrator":"Illustrator"
     },
     "direction": null
   },
@@ -127,8 +127,8 @@
 "create" : "창조하다?",
 "switchprofile" : "프로필 전환",
 "deleteprofile" : "프로필 삭제",
-"manageprofile" : "프로필 관리"
-
+"manageprofile" : "프로필 관리",
+"illustrator":"삽화가"
     },
     "direction": null
   },
