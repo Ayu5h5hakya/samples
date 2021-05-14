@@ -65,7 +65,10 @@
       "editor":"Editor",
       "notes":"Notes",
       "license":"License",
-      "filters":"Filters"
+      "filters":"Filters",
+      "type":"Type",
+      "activity":"Activity",
+      "audio":"Audio"
     },
     "direction": null
   },
@@ -138,7 +141,10 @@
       "editor":"편집자",
             "notes":"메모",
       "license":"특허",
-      "filters":"필터"
+      "filters":"필터",
+            "type":"유형",
+      "activity":"활동",
+      "audio":"오디오"
     },
     "direction": null
   },
