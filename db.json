@@ -107,4 +107,73 @@
   "lastUpdated": 1559299362127,
   "status": "MODIFIED"
 }
+  "4698928813441024":{
+    "key": "localization_android_4698928813441024",
+  "value": {
+    "fields": {
+      "selectyourlanguage": "언어를 선택하세요"
+"continue": "계속하다"
+"whoisreadingtoday" : "오늘 누가 읽고 있습니까?"
+"letsread" : "읽자"
+"welcomeback" : "다시 오신 것을 환영합니다"
+"selectlanguage" : "언어 선택"
+"youreoffline" : "당신은 오프라인입니다"
+"readbooksfromlibrary" : "라이브러리에서 다운로드 한 책 읽기"
+"gotodownloads" : "다운로드로 이동"
+"categories" : "카테고리"
+"recent" : "충적세"
+"clear" : "맑은"
+"language" : "언어"
+"readinglevel" : "읽기 수준"
+"type": "유형"
+"categories" : "카테고리"
+"clearall" : "모두 지우기"
+"signnlanguage" : "수화"
+"mybooks" : "내 책들"
+"signinupsaveprofilefavbooks" : "프로필과 좋아하는 책을 저장하려면 로그인 또는 가입하세요."
+"read" : "읽다"
+"listenread" : "듣고 읽고"
+"notreadanybooks" : "책을 읽지 않았습니다."
+"selectall" : "모두 선택"
+"done" : "끝난"
+"removefavorites" : "즐겨 찾기에서 삭제하기"
+"removedownload" : "다운로드 제거"
+"removeall" : "모두에서 제거"
+"cancel" : "취소"
+"listen" : "들리다"
+"more" : "더"
+"length" : "길이"
+"pages" : "페이지"
+"availablelanguages" : "사용 가능한 언어"
+"bookactivity" : "책 활동"
+"bookcontributedto" : "기고 도서"
+"seeallcollaborators" : "모든 공동 작업자보기"
+"signlanguageoption" : "수화 옵션"
+"congratulations" : "축하합니다"
+"next" : "다음"
+"letskeepreading" : "계속 읽으세요"
+"youarealmosttogoal" : "거의 목표에 도달했습니다!"
+"goal" : "골"
+"adayfrom" : "하루로부터"
+"todaysreading" : "오늘의 독서"
+"min" : "분"
+"gotohome" : "집으로 이동"
+"createaprofile" : "프로필 만들기"
+"setreadinggoal" : "읽기 목표 설정"
+"keepreading" : "계속 읽으세요"
+"profile" : "프로필"
+"setprofile" : "프로필 설정"
+"whatisyourname" : "당신의 이름은 무엇입니까?"
+"whatpicturewouldyoulike" : "어떤 사진을 찍고 싶습니까?"
+"create" : "창조하다?"
+"switchprofile" : "프로필 전환"
+"deleteprofile" : "프로필 삭제"
+"manageprofile" : "프로필 관리"
+
+    },
+    "direction": null
+  },
+  "lastUpdated": 1559299362127,
+  "status": "MODIFIED"
+}
 }
