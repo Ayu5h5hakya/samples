@@ -35,7 +35,7 @@
 "more" : "More",
 "length" : "Length",
 "pages" : "Pages",
-"availablelanguages" : "Available languages",
+"availablelanguages" : "Available \nlanguages",
 "bookactivity" : "Book Activity",
 "bookcontributedto" : "Books Contributed To",
 "seeallcollaborators" : "See all collaborators",
@@ -68,7 +68,13 @@
       "filters":"Filters",
       "type":"Type",
       "activity":"Activity",
-      "audio":"Audio"
+      "audio":"Audio",
+      "termsconditions" : "Terms & Conditions",
+      "settings": "Settings",
+      "signup" : "Sign Up",
+      "login" : "Log in",
+      "aboutletsread" : "About Let's Read",
+      "newprofile":"New Profile"
     },
     "direction": null
   },
@@ -144,7 +150,13 @@
       "filters":"필터",
             "type":"유형",
       "activity":"활동",
-      "audio":"오디오"
+      "audio":"오디오",
+      "termsconditions" : "이용 약관",
+      "settings": "설정",
+      "signup" : "가입하기",
+      "login" : "로그인",
+      "aboutletsread" : "Let 's Read 정보",
+      "newprofile":"새 프로필"
     },
     "direction": null
   },
