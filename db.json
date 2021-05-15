@@ -167,7 +167,7 @@
   "key": "localization_android_5173671480000512",
   "value": {
     "fields": {
-      "selectyourlanguage": "Select your language",
+      "selectyourlanguage": "اختر لغتك",
 "continue": "استمر",
 "whoisreadingtoday" : "من يقرأ اليوم؟",
 "letsread" : "هيا نقرأ",
@@ -240,7 +240,7 @@
       "aboutletsread" : "حول هيا نقرأ",
       "newprofile":"الملف الشخصي الجديد"
     },
-    "direction": null
+    "direction": "RTL"
   },
   "lastUpdated": 1559299362127,
   "status": "MODIFIED"
