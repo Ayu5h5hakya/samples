@@ -76,7 +76,7 @@
       "aboutletsread" : "About Let's Read",
       "newprofile":"New Profile"
     },
-    "direction": null
+    "direction": "LTR"
   },
   "lastUpdated": 1559299362127,
   "status": "MODIFIED"
@@ -158,7 +158,7 @@
       "aboutletsread" : "Let 's Read 정보",
       "newprofile":"새 프로필"
     },
-    "direction": null
+    "direction": "LTR"
   },
   "lastUpdated": 1559299362127,
   "status": "MODIFIED"
